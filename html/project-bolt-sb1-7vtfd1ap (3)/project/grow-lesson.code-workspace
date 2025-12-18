@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../grow-lesson"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "parallax-3d-lens-effect-website (1)"
+	}
+}
